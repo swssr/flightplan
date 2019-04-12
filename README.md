@@ -2,4 +2,4 @@
 Landing page for fictional company. vanilla everything.
 
 ## Contribution 🤼
-All Welcome, this is concept website. Do whatever you want.
+All Welcome, this is a concept website. Do whatever you want.
